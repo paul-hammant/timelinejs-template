@@ -4,6 +4,8 @@ nav: Example
 nav_order: 1
 # Add timelinejs
 timeline-json: example-timeline.json
+timeline-options:
+  hash_bookmark: true
 ---
 
 Content can be written in Markdown above a timeline.
