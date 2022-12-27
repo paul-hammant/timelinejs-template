@@ -1,5 +1,5 @@
 {
-    "lang": "no",
+    "lang": "nn",
     "date": {
         "month_abbr": [
             "Jan.",
@@ -17,21 +17,21 @@
         ],
         "day_abbr": [
             "Søn.",
-            "Man.",
-            "Tir.",
+            "Mån.",
+            "Tys.",
             "Ons.",
             "Tor.",
             "Fre.",
-            "Lør."
+            "Lau."
         ],
         "day": [
             "Søndag",
-            "Mandag",
-            "Tirsdag",
+            "Måndag",
+            "Tysdag",
             "Onsdag",
             "Torsdag",
             "Fredag",
-            "Lørdag"
+            "Laurdag"
         ],
         "month": [
             "Januar",
@@ -49,14 +49,14 @@
         ]
     },
     "api": {
-        "wikipedia": "no"
+        "wikipedia": "nn"
     },
     "messages": {
-        "loading": "Laster",
+        "loading": "Lastar",
         "return_to_title": "Tilbake til tittel",
-        "wikipedia": "Fra Wikipedia, den frie encyklopedi",
-        "loading_content": "Laster innhold",
-        "loading_timeline": "Laster tidslinje... ",
+        "wikipedia": "Frå Wikipedia, det frie oppslagsverket",
+        "loading_content": "Lastar innhold",
+        "loading_timeline": "Lastar tidslinje... ",
         "swipe_to_navigate": "Sveip for å navigere<br><span class='tl-button'>OK</span>"
     },
     "dateformats": {
